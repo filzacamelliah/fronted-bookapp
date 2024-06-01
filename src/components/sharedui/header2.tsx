@@ -1,5 +1,5 @@
 import { Button } from "../ui/button";
-import { Link, useNavigate } from "react-router-dom";
+import { Link } from "react-router-dom";
 
 import { useAuth } from "@/hooks/useAuth";
 import Avatar from "boring-avatars";
